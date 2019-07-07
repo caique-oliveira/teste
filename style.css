@@ -1,0 +1,8 @@
+img{
+	width: 50%;
+	height: 100vh;
+	object-fit: contain;
+}
+.img-cachorro{
+	display: flex;
+}
